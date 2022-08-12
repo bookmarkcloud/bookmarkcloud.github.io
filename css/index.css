@@ -100,7 +100,7 @@ header {
 
 .main {
     width: 1140px;
-    height: calc(100% - 170px);
+    height: calc(100% - 220px);
     padding: 30px;
     margin: 0 auto;
 }
@@ -111,6 +111,7 @@ header {
     height: 100%;
     display: flex;
     color: #fcfcfc;
+    padding-bottom: 40px;
 }
 .main-container .left-content {
     width: 600px;
